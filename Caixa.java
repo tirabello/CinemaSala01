@@ -6,6 +6,6 @@ public class Caixa {
     
   
     public void caixa(float caixa){
-        System.out.println("Valor arrecadado hoje: " + caixa);
+        System.out.println("Valor arrecadado hoje : " + caixa);
     }
 }
